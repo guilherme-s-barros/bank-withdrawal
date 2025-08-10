@@ -1,4 +1,4 @@
-# Programa de saque de dinheiro por notas de 50, 25 e 5
+# Bank Withdrawal
 
 O usuário deve entrar com a quantia que deseja sacar e o programa deve devolver
 a quantia dividida em notas de 50, 25 e 5 somente.
