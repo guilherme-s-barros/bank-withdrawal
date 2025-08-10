@@ -1,6 +1,6 @@
 # Bank Withdrawal
 
-Um programa que feito em Java que simula um saque em dinheiro. O usuário fornece a quantia que deseja sacar e o programa retorna
+Um programa feito em Java que simula um saque em dinheiro. O usuário fornece a quantia que deseja sacar e o programa retorna
 a quantia dividida em notas de 50, 25 e 5 somente.
 
 ## Exemplos:
